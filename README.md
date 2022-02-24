@@ -6,4 +6,5 @@ A network enthusiast, Code for fun.
 - [SHEDの博客](https://www.shed.cm)
 
 
-![SHED's GitHub stats](https://github-readme-stats.vercel.app/api?username=shedya&bg_color=30,929,44a&title_color=fff&text_color=fff&locale=cn)
+![SHED's GitHub stats](https://github-readme-stats.vercel.app/api?username=shedya&bg_color=30,929,4d41a9&title_color=fff&text_color=fff&locale=cn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=30,6f33a2,44a&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
