@@ -7,4 +7,3 @@ A network enthusiast, Code for fun.
 
 
 ![SHED's GitHub stats](https://github-readme-stats.vercel.app/api?username=shedya&bg_color=30,929,44a&title_color=fff&text_color=fff&locale=cn)
-![status](https://github-readme-stats.vercel.app/api?username=shedya&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&locale=cn)
