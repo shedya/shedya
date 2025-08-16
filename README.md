@@ -2,7 +2,6 @@ Hi, I'm SHED
 ====
 A network enthusiast, Code for fun.
 
-- [YUNYOO云悠](https://www.yunyoo.cc)
 - [SHEDの博客](https://www.shed.cm)
 
 
