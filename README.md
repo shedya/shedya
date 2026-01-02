@@ -1,8 +1,11 @@
-Hi, I'm SHED
-====
-A network enthusiast, Code for fun.
+<p align="center">
+  <samp>
+    <a href="https://shed.cm">Blog</a> .
+    <a href="https://shed219.t.me">Telegram</a>
+  </samp>
+</p>
 
-- [Blog](https://shed.cm)
+---
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
