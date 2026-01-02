@@ -1,9 +1,11 @@
-<p align="center">
-  <samp>
-    <a href="https://shed.cm">Blog</a> .
-    <a href="https://shed219.t.me">Telegram</a>
-  </samp>
-</p>
+<div align="center">
+
+[![Blog](https://img.shields.io/static/v1?style=for-the-badge&message=Blog&color=cad7e1&logo=Blog&label= "Blog")](https://shed.cm/)
+[![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26a4e2&logoColor=fff&label= "Telegram")](https://shed219.t.me/)
+[![X](https://img.shields.io/static/v1?style=for-the-badge&message=X&color=black&logoColor=fff&label= "X")](https://x.com/shed0219)
+
+
+</div>
 
 ---
 
