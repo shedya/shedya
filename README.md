@@ -16,28 +16,28 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   8 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   29.17 % 
-TypeScript               8 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   26.63 % 
-Rust                     2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-Markdown                 2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-Bash                     2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+TypeScript               9 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   29.58 % 
+Vue.js                   9 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   28.53 % 
+Rust                     3 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Markdown                 2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+JSON                     1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
 
 🔥 Editors: 
-VS Code                  30 hrs 29 mins      █████████████████████████   100.00 % 
+VS Code                  31 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
 
 ```text
-PHP                      16 repos            ███████░░░░░░░░░░░░░░░░░░   27.59 % 
-TypeScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-HTML                     8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Vue                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+PHP                      16 repos            ███████░░░░░░░░░░░░░░░░░░   28.07 % 
+TypeScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+HTML                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Vue                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 ```
 
 
 
 
- Last Updated on 26/03/2026 01:26:50 UTC
+ Last Updated on 27/03/2026 01:26:34 UTC
 <!--END_SECTION:waka-->
