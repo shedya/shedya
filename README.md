@@ -16,29 +16,29 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      9 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   34.43 % 
-TypeScript               7 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
-Markdown                 5 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
-JavaScript               2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-YAML                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Vue                      7 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   31.36 % 
+TypeScript               5 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
+Markdown                 5 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   24.17 % 
+YAML                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+JavaScript               1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
 
 🔥 Editors: 
-Qoder                    16 hrs 29 mins      ███████████████░░░░░░░░░░   58.59 % 
-Claude Code              11 hrs 39 mins      ██████████░░░░░░░░░░░░░░░   41.41 % 
+Claude Code              11 hrs 39 mins      █████████████░░░░░░░░░░░░   50.09 % 
+Qoder                    11 hrs 36 mins      ████████████░░░░░░░░░░░░░   49.91 % 
 ```
 
 **I Mostly Code in PHP** 
 
 ```text
-TypeScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-HTML                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Vue                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+TypeScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+HTML                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Vue                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 ```
 
 
 
 
- Last Updated on 26/05/2026 02:27:55 UTC
+ Last Updated on 27/05/2026 02:37:15 UTC
 <!--END_SECTION:waka-->
