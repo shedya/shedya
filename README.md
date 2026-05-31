@@ -16,30 +16,30 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               8 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   30.39 % 
-Markdown                 7 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
-Vue                      6 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
-JavaScript               2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-YAML                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+Markdown                 4 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   27.91 % 
+TypeScript               4 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   27.32 % 
+Vue                      3 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
+YAML                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+PHP                      53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
 
 🔥 Editors: 
-Qoder                    21 hrs 16 mins      ██████████████████░░░░░░░   72.36 % 
-Claude Code              7 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   26.85 % 
-VS Code                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Qoder                    12 hrs 42 mins      ████████████████████░░░░░   79.92 % 
+Claude Code              3 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
+VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 ```
 
 **I Mostly Code in PHP** 
 
 ```text
-TypeScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-HTML                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Vue                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+TypeScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+HTML                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Vue                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 ```
 
 
 
 
- Last Updated on 30/05/2026 02:13:00 UTC
+ Last Updated on 31/05/2026 02:38:27 UTC
 <!--END_SECTION:waka-->
