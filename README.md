@@ -10,18 +10,35 @@
 ---
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Vue                      37 mins             █████████████████░░░░░░░░   68.21 % 
+TypeScript               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Markdown                 4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+CSS                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+JavaScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+
+🔥 Editors: 
+Qoder                    46 mins             █████████████████████░░░░   84.94 % 
+VS Code                  8 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+```
+
 **I Mostly Code in PHP** 
 
 ```text
-TypeScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-HTML                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Vue                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+TypeScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+HTML                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Vue                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 ```
 
 
 
 
- Last Updated on 07/06/2026 02:42:16 UTC
+ Last Updated on 08/06/2026 02:45:49 UTC
 <!--END_SECTION:waka-->
