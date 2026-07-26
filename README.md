@@ -10,6 +10,23 @@
 ---
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+TypeScript               3 hrs 53 mins       ██████████████░░░░░░░░░░░   56.02 % 
+Markdown                 1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Git Config               48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+Vue                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+
+🔥 Editors: 
+Qoder                    5 hrs 11 mins       ███████████████████░░░░░░   74.84 % 
+VS Code                  1 hr 44 mins        ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
+```
+
 **I Mostly Code in PHP** 
 
 ```text
@@ -23,5 +40,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 01:52:15 UTC
+ Last Updated on 26/07/2026 01:56:07 UTC
 <!--END_SECTION:waka-->
