@@ -16,15 +16,15 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               3 hrs 53 mins       ██████████████░░░░░░░░░░░   56.02 % 
-Markdown                 1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-Git Config               48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-Vue                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Markdown                 4 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   35.93 % 
+TypeScript               4 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   35.43 % 
+Git Config               55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+Vue                      47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+Other                    41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
 
 🔥 Editors: 
-Qoder                    5 hrs 11 mins       ███████████████████░░░░░░   74.84 % 
-VS Code                  1 hr 44 mins        ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
+Qoder                    9 hrs 41 mins       ██████████████████░░░░░░░   70.53 % 
+VS Code                  4 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   29.47 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -40,5 +40,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 01:56:07 UTC
+ Last Updated on 27/07/2026 02:03:58 UTC
 <!--END_SECTION:waka-->
