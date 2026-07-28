@@ -10,21 +10,46 @@
 ---
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-266%20hrs%2042%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 4 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   35.93 % 
-TypeScript               4 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   35.43 % 
-Git Config               55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-Vue                      47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-Other                    41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+Markdown                 5 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   33.66 % 
+TypeScript               5 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   33.59 % 
+Vue                      1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+JSON                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+Git Config               55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
 
 🔥 Editors: 
-Qoder                    9 hrs 41 mins       ██████████████████░░░░░░░   70.53 % 
-VS Code                  4 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   29.47 % 
+Qoder                    11 hrs 12 mins      ██████████████████░░░░░░░   73.13 % 
+VS Code                  4 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   26.87 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 15 hrs 17 mins (99.82%)
+
+✍️ 31,201 lines written by AI, 10 lines written by hand (99.97% AI-written)
+
+🔤 354,652,053 Input Tokens, 1,206,754 Output Tokens
+
+💵 $1717.77 Estimated AI Cost This Week
+
+🧠 45 AI Sessions, 228 AI Prompts
+
+GPT                      27,707 lines        ██████████████████████░░░   86.96 % 
+Qoder                    4,154 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.97% of written lines came from AI
+📚 Verbose Prompter — average 8,481 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.04% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -40,5 +65,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 02:03:58 UTC
+ Last Updated on 28/07/2026 01:45:38 UTC
 <!--END_SECTION:waka-->
