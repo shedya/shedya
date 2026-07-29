@@ -10,46 +10,44 @@
 ---
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-266%20hrs%2042%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   33.66 % 
-TypeScript               5 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   33.59 % 
-Vue                      1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-JSON                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-Git Config               55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+Markdown                 10 hrs 39 mins      █████████░░░░░░░░░░░░░░░░   34.02 % 
+TypeScript               5 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
+JSON                     4 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Vue                      3 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+JavaScript               3 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
 
 🔥 Editors: 
-Qoder                    11 hrs 12 mins      ██████████████████░░░░░░░   73.13 % 
-VS Code                  4 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   26.87 % 
+Qoder                    23 hrs 1 min        ██████████████████░░░░░░░   73.55 % 
+VS Code                  8 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   26.45 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 17 mins (99.82%)
+⏱ AI Coding Time: 31 hrs 17 mins (99.91%)
 
-✍️ 31,201 lines written by AI, 10 lines written by hand (99.97% AI-written)
+✍️ 38,991 lines written by AI, 10 lines written by hand (99.97% AI-written)
 
-🔤 354,652,053 Input Tokens, 1,206,754 Output Tokens
+🔤 838,703,287 Input Tokens, 2,228,615 Output Tokens
 
-💵 $1717.77 Estimated AI Cost This Week
+💵 $4066.07 Estimated AI Cost This Week
 
-🧠 45 AI Sessions, 228 AI Prompts
+🧠 54 AI Sessions, 441 AI Prompts
 
-GPT                      27,707 lines        ██████████████████████░░░   86.96 % 
-Qoder                    4,154 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+GPT                      36,323 lines        ██████████████████████░░░   89.74 % 
+Qoder                    4,155 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.97% of written lines came from AI
-📚 Verbose Prompter — average 8,481 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.04% of changed lines were hand-edited
+📚 Verbose Prompter — average 16,516 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.03% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -65,5 +63,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 01:45:38 UTC
+ Last Updated on 29/07/2026 01:48:25 UTC
 <!--END_SECTION:waka-->
