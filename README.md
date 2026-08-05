@@ -18,37 +18,37 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 16 hrs 57 mins      █████████░░░░░░░░░░░░░░░░   34.93 % 
-TypeScript               14 hrs 19 mins      ███████░░░░░░░░░░░░░░░░░░   29.51 % 
-JavaScript               6 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-Vue                      4 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-JSON                     4 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+TypeScript               14 hrs 6 mins       ██████████░░░░░░░░░░░░░░░   40.77 % 
+Markdown                 12 hrs 19 mins      █████████░░░░░░░░░░░░░░░░   35.62 % 
+JavaScript               2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Vue                      2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+JSON                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 
 🔥 Editors: 
-Qoder                    38 hrs 56 mins      ████████████████████░░░░░   80.17 % 
-VS Code                  9 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+Qoder                    28 hrs 22 mins      ████████████████████░░░░░   81.97 % 
+VS Code                  6 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 48 hrs 33 mins (100.0%)
+⏱ AI Coding Time: 34 hrs 36 mins (100.0%)
 
-✍️ 24,699 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 18,415 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,563,450,587 Input Tokens, 2,794,343 Output Tokens
+🔤 1,221,890,890 Input Tokens, 1,988,973 Output Tokens
 
-💵 $7592.89 Estimated AI Cost This Week
+💵 $5957.06 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 599 AI Prompts
+🧠 36 AI Sessions, 457 AI Prompts
 
-GPT                      25,831 lines        █████████████████████████   100.00 % 
-Qoder                    1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      18,769 lines        █████████████████████████   100.00 % 
+Qoder                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 25,028 characters per prompt
-🔁 Iterative Prompter — average 22 prompts per session
+📚 Verbose Prompter — average 23,966 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -65,5 +65,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2026 01:44:14 UTC
+ Last Updated on 05/08/2026 01:46:10 UTC
 <!--END_SECTION:waka-->
