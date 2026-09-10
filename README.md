@@ -10,7 +10,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-438%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-444%20hrs%2046%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -18,40 +18,40 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      10 hrs 51 mins      ██████░░░░░░░░░░░░░░░░░░░   25.76 % 
-Markdown                 10 hrs 26 mins      ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
-TypeScript               8 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
-JavaScript               4 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-MDX                      1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+TypeScript               11 hrs 26 mins      ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
+Vue                      10 hrs 48 mins      ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
+Markdown                 8 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+JavaScript               5 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Other                    2 hrs 40 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 25 mins      ██████████████░░░░░░░░░░░   57.96 % 
-Codex Vscode             15 hrs 24 mins      █████████░░░░░░░░░░░░░░░░   36.56 % 
-Qoder                    2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+VS Code                  24 hrs 46 mins      █████████████░░░░░░░░░░░░   53.95 % 
+Codex Vscode             18 hrs 38 mins      ██████████░░░░░░░░░░░░░░░   40.58 % 
+Qoder                    2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 41 hrs 45 mins (99.09%)
+⏱ AI Coding Time: 45 hrs 31 mins (99.13%)
 
-✍️ 7,760 lines written by AI, 18 lines written by hand (99.77% AI-written)
+✍️ 7,879 lines written by AI, 21 lines written by hand (99.73% AI-written)
 
-🔤 50,168,153 Input Tokens, 1,714,138 Output Tokens
+🔤 54,959,924 Input Tokens, 1,981,263 Output Tokens
 
-💵 $1195.77 Estimated AI Cost This Week
+💵 $1633.04 Estimated AI Cost This Week
 
-🧠 183 AI Sessions, 984 AI Prompts
+🧠 184 AI Sessions, 1110 AI Prompts
 
-GPT                      8,212 lines         ████████████████████████░   94.89 % 
-Codex-Vscode             442 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+GPT                      8,281 lines         ████████████████████████░   94.60 % 
+Codex-Vscode             473 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
 Qoder                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.77% of written lines came from AI
-📚 Verbose Prompter — average 81,154 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.29% of changed lines were hand-edited
+🤖 AI-Driven — 99.73% of written lines came from AI
+📚 Verbose Prompter — average 75,518 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.33% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -67,5 +67,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2026 02:16:39 UTC
+ Last Updated on 10/09/2026 02:15:06 UTC
 <!--END_SECTION:waka-->
