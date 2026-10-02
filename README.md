@@ -18,41 +18,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 18 mins        ██████████████░░░░░░░░░░░   56.21 % 
-Vue                      28 mins             █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
-Bash                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-Docker                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-JavaScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+Other                    4 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 5 mins        ███████████████████████░░   91.98 % 
-VS Code                  10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Codex Vscode             0 secs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 8 mins (94.61%)
-
-✍️ 28 lines written by AI, 3 lines written by hand (90.32% AI-written)
-
-🔤 882,252 Input Tokens, 95,078 Output Tokens
-
-💵 $67.52 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 49 AI Prompts
-
-GPT                      46 lines            ████████████████░░░░░░░░░   62.16 % 
-Opus                     28 lines            █████████░░░░░░░░░░░░░░░░   37.84 % 
-Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 90.32% of written lines came from AI
-📝 Concise Prompter — average 233 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 20.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
@@ -68,5 +43,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2026 03:15:10 UTC
+ Last Updated on 02/10/2026 03:16:17 UTC
 <!--END_SECTION:waka-->
