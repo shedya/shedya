@@ -18,16 +18,39 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 33 hrs 29 mins      ███████████░░░░░░░░░░░░░░   45.75 % 
+TypeScript               18 hrs 52 mins      ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
+JavaScript               13 hrs 27 mins      █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+Vue                      4 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+JSON                     1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex Vscode             73 hrs 8 mins       █████████████████████████   99.90 % 
+Qoder                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 73 hrs 13 mins (100.0%)
+
+✍️ 76,433 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 77,519,261 Input Tokens, 9,484,175 Output Tokens
+
+💵 $544.95 Estimated AI Cost This Week
+
+🧠 55 AI Sessions, 102 AI Prompts
+
+GPT                      78,007 lines        █████████████████████████   100.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 252 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -43,5 +66,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2026 03:03:18 UTC
+ Last Updated on 12/10/2026 03:26:33 UTC
 <!--END_SECTION:waka-->
